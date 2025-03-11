@@ -15,7 +15,7 @@ This project consists of:
 ## Set Up Instructions
 - Having a python version of 3.6 or higher in your PC.
 - Cloning the repository to your local machine using:
-  ``````
+  ```https://github.com/Esther-Mbanzabigwi/dqn_atari```
 - Installing the dependencies listed in the ```requirement.txt``` file:
   
   ```pip install -r requirements.txt```
